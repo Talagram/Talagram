@@ -1,4 +1,4 @@
-### Talagram for Android (http://plusmessenger.org)
+### Talagram for Android (http://talagram.ir/)
 
 This is an UNOFFICIAL app that uses [Telegram's API](https://core.telegram.org/api)
 
@@ -14,7 +14,6 @@ Change colors and sizes of many objects as texts, icons, headers... and create y
 Save your theme and share it easily with your friends.
 Data base with more than 3000 different themes, updated every day, with all type of categories. New themes are published every day, notifying with every new publication
 
-[Plus Themes](https://play.google.com/store/apps/details?id=es.rafalense.themes).
 
 # EXTRA FEATURES #
 + Option to set own info (bio) in Settings
@@ -34,26 +33,4 @@ Data base with more than 3000 different themes, updated every day, with all type
 + Option to change chat emoji view size
 + Option to mute users or groups directly from main screen
 + Option to add member directly from chat screen
-
-In addition, it is translated to many other languages, updated by plus community continuously
-
-Of course it has all Telegram benefits:
-Free, fast and secure, private chats, files up to 1’5Gb, groups up to 200 members, channels, reply to concrete messages, no need to give your mobile number, just your username is enough to chat in a group or with any user, cloud based, etc
-
-# SOCIAL #
-Join our G+ community to report bugs, share ideas, get in touch with other Talagram users through [our Google+ community](https://plus.google.com/communities/106927015963860485525)
-
-Follow our [Official plus channel:] (https://telegram.me/plusmsgr)
-
-
-This repo contains the source code for [Talagram App for Android](https://play.google.com/store/apps/details?id=org.telegram.plus).
-
-### USAGE
-**Beware of using the dev branch and uploading it to any markets, in many cases it not will work as expected**.
-
-First of all, take a look at **src/main/java/org/telegram/messenger/BuildVars.java** and fill it with correct values.
-Import the root folder into your IDE (tested on Android Studio), then run project.
-
-### LOCALIZATION
-Join our translation project if you want to collaborate: [link](https://www.transifex.com/projects/p/plusmessenger/)
 
